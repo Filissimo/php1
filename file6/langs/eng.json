@@ -1,0 +1,19 @@
+{
+    "username": "username",
+    "realname": "realname",
+    "password": "password",
+    "login": "login",
+    "register": "register",
+    "logout": "logout",
+    "back": "back",
+    "username_not_available": "This username isn't available!",
+    "reg_success": "Registration is successful!",
+    "continue": "continue",
+    "user_not_exists": "This username doesn't exist!",
+    "user_correct_but_not_pass": "There is such user, but wrong password!",
+    "welcome": "Welcome",
+    "delete": "delete",
+    "add_pic": "Add picture",
+    "file": "File",
+    "uploaded_successfully": "uploaded successfully!"
+}
